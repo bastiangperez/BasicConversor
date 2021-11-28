@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">BGP_Conversor</string>
+    <string name="app_title">BGPConversor by Bastian García</string>
+    <string name="convertir_boton">Convertir</string>
+    <string name="cantidad_origen">Cantidad a convertir</string>
+    <string name="convertir_resultado">Resultado</string>
+    <string name="euros">Euros (EUR)</string>
+    <string name="cantidad_inicial">Cantidad Inicial</string>
+    <string name="cantidad_convertida">Cantidad Convertida</string>
+    <string name="listado_divisas">Ver listado de divisas</string>
+    <string name="title_listado_divisas">Tasas de conversión de divisas</string>
+    <string name="go_back">Volver atrás</string>
+    <string-array name="divisas">
+        <item>Euros (EUR)</item>
+        <item>Dólar (USD)</item>
+        <item>Yen (JPY)</item>
+        <item>Lev (BGN)</item>
+        <item>Corona (CZK)</item>
+        <item>Corona (DKK)</item>
+        <item>Libras (GBP)</item>
+        <item>Forinto (HUF)</item>
+        <item>Zloty (PLN)</item>
+        <item>Leu (RON)</item>
+        <item>Corona (SEK)</item>
+        <item>Franco (CHF)</item>
+        <item>Corona (ISK)</item>
+        <item>Corona (NOK)</item>
+        <item>Kuna (HRK)</item>
+        <item>Rublo(RUB)</item>
+        <item>Lira (TRY)</item>
+        <item>Dólar (AUD)</item>
+        <item>Real (BRL)</item>
+        <item>Dólar (CAD)</item>
+        <item>Yuan (CNY)</item>
+        <item>Dólar (HKD)</item>
+        <item>Rupia (IDR)</item>
+        <item>Séquel (ILS)</item>
+        <item>Rupia (INR)</item>
+        <item>Won (KRW)</item>
+        <item>Peso (MXN)</item>
+        <item>Dólar (MYR)</item>
+        <item>Dólar (NZD)</item>
+        <item>Peso (PHP)</item>
+        <item>Dólar (SGD)</item>
+        <item>Baht (THB)</item>
+        <item>Rand (ZAR)</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/basti/AndroidStudioProjects/BGP_Conversor/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/basti/AndroidStudioProjects/BGP_Conversor/app/src/main/res/drawable/borders.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/basti/AndroidStudioProjects/BGP_Conversor/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/basti/AndroidStudioProjects/BGP_Conversor/app/src/main/res/layout-land/activity_list.xml" value="0.18783068783068782" />
+        <entry key="..\:/Users/basti/AndroidStudioProjects/BGP_Conversor/app/src/main/res/layout-land/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/basti/AndroidStudioProjects/BGP_Conversor/app/src/main/res/layout/activity_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/basti/AndroidStudioProjects/BGP_Conversor/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/basti/AndroidStudioProjects/BGP_Conversor/app/src/main/res/layout/custom.xml" value="0.34601449275362317" />
+        <entry key="..\:/Users/basti/AndroidStudioProjects/BGP_Conversor/app/src/main/res/layout/custom_groupbox.xml" value="0.221875" />
+        <entry key="..\:/Users/basti/AndroidStudioProjects/BGP_Conversor/app/src/main/res/layout/custom_listview_items.xml" value="0.221875" />
+        <entry key="..\:/Users/basti/AndroidStudioProjects/BGP_Conversor/app/src/main/res/layout/custom_spinner_items.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/basti/AndroidStudioProjects/BGP_Conversor/app/src/main/res/layout/layout_corners_shape.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/basti/AndroidStudioProjects/BGP_Conversor/app/src/main/res/layout/listview_adapter.xml" value="0.34601449275362317" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
